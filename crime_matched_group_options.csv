@@ -1,0 +1,158 @@
+,def_name,def_woman,crime_only_match_prop_scores,psm_crime_only_match,logit_ps,psm_crime_only_match_cal_rec,psm_crime_only_match_cal_tight,psm_crime_only_match_cal_loose,psm_crime_only_match_cal_tight_replacement,psm_crime_only_match_cal_loose_replacement
+0,"Gaxiola, Albert Robert",False,0.5394570182904035,True,0.15815692361226905,True,True,True,False,False
+1,"Reid, Albert Ezron",False,0.5172657477695687,False,0.06909046152840982,True,False,True,False,False
+2,"Lackey, Andrew",False,0.4948137956374395,False,-0.020745561454879102,False,False,True,False,False
+3,"Milam, Blaine Keith",False,0.5063237874301247,False,0.025296498597040334,False,False,True,False,False
+4,"Kennedy, Carlos",False,0.4832245148360707,False,-0.06712713583513275,False,False,False,False,False
+5,"Ricks, Cedric Allen",False,0.5169608651464856,False,0.0678695006900259,True,False,True,False,False
+6,"Mamou, Charles Jr",False,0.4920921080694883,True,-0.03163420554772682,False,False,True,False,False
+7,"Sepulvado, Christopher",False,0.4974063548491499,True,-0.010374673657907606,False,False,True,False,False
+8,"Ray, Clarence Jr",False,0.5203674107675,False,0.08151474954343275,True,False,True,False,False
+9,"Matthews, Damon Roshun",False,0.49088906575605934,False,-0.03644777132970843,False,False,False,False,False
+10,"Whalen, Daniel Lee",False,0.49092531418646634,False,-0.03630272964029683,False,False,False,False,False
+11,"Hillhouse, Dannie Ray",False,0.4910077066247073,True,-0.03597305227470587,False,False,True,False,False
+12,"Stanley, Darren Cornelius",False,0.4802912839600581,False,-0.07887573173328262,False,False,False,False,False
+13,"Wood, David Leonard",False,0.49092531418646634,False,-0.03630272964029683,False,False,False,False,False
+14,"Ervine, Dennis Newton",False,0.5221249303468014,False,0.08855755164135824,True,False,True,False,False
+15,"Lawley, Dennis Harold",False,0.4802912839600581,False,-0.07887573173328262,False,False,False,False,False
+16,"Chappell, Derek Don",False,0.5535808810620579,False,0.21514962874127788,True,True,True,True,True
+17,"Dearman, Derrick",False,0.5063237874301247,False,0.025296498597040334,False,False,True,False,False
+18,"Johnson, Dexter Darnell",False,0.49088906575605934,False,-0.03644777132970843,False,False,False,False,False
+19,"Leonard, Eric Royce",False,0.49092531418646634,True,-0.03630272964029683,False,False,False,False,False
+20,"Hernandez, Fabian",False,0.5063237874301247,False,0.025296498597040334,False,False,True,False,False
+21,"Acosta, Hector",False,0.4885742012881443,False,-0.04571115267519837,False,False,False,False,False
+22,"Barrett, Joseph Anthony",False,0.4802912839600581,True,-0.07887573173328262,False,False,False,False,False
+23,"Lamb, Michael Allan",False,0.5348231569442311,True,0.13951850354971107,True,True,True,False,False
+24,"Foster, Richard",False,0.5063237874301247,False,0.025296498597040334,True,True,True,True,True
+25,"Crummel, James Lee",False,0.513357270817528,True,0.05344179890185677,True,False,True,False,False
+26,"Flores, Alfred III",False,0.48548456453891337,False,-0.05807806141105542,False,False,False,False,False
+27,"Garton, Todd Jesse",False,0.4850595725178975,True,-0.05977950585254368,True,True,True,True,True
+28,"Kennedy, John Fitzgerald",False,0.4802912839600581,True,-0.07887573173328262,False,False,False,False,False
+29,"Poore, Christopher Eric",False,0.48248111796531074,True,-0.07010422523479877,False,False,False,False,False
+30,"Young, Jeffrey Scott",False,0.4802912839600581,False,-0.07887573173328262,True,True,True,True,True
+31,"Wright, William Lee Jr",False,0.549806913619502,False,0.19989057886095565,True,True,True,False,False
+32,"Booker, Richard Lonnie",False,0.5345954445341791,False,0.1386032433071415,True,True,True,True,True
+33,"Thomas, Regis Deon",False,0.494938551962587,True,-0.02024648374136204,False,False,True,False,False
+34,"Shove, Theodore Churchill",False,0.49484291935026387,False,-0.020629054139182847,False,False,True,False,False
+35,"Dixon, James Winslow",False,0.48732011141503784,False,-0.050730431428465964,False,False,False,False,False
+36,"Rangel, Ruben",False,0.4850595725178975,False,-0.05977950585254368,True,True,True,False,False
+37,"Henderson, Paul Nathan",False,0.4868561845045254,False,-0.05258737753403037,False,False,False,False,False
+38,"Brooks, Donald Lewis Jr",False,0.48881572622452124,False,-0.044744558773190314,False,False,False,False,False
+39,"Mosley, Barry Wendell",False,0.4961238128253386,False,-0.015505059318069355,False,False,True,False,False
+40,"Avila, Joseph",False,0.4830667352179796,True,-0.06775897225574022,False,False,False,False,False
+41,"Delacruz, Isidro Miguel",False,0.49852780883195874,False,-0.00588878168958102,True,True,True,True,True
+42,"Calvert, James",False,0.486979896953007,True,-0.05209218875577888,False,False,False,False,False
+43,"Dickerson, James Richard",False,0.4802912839600581,False,-0.07887573173328262,True,True,True,False,False
+44,"Majors, James David",False,0.4868561845045254,False,-0.05258737753403037,False,False,False,False,False
+45,"Pavatt, James Dwight",False,0.49092531418646634,False,-0.03630272964029683,False,False,False,False,False
+46,"Mills, Jamie",False,0.4287256204635344,True,-0.2870524838524765,True,True,True,True,True
+47,"Bush, Jason Eugene",False,0.7332160822613505,False,1.0110014161856828,True,True,True,True,True
+48,"Delacerda, Jason",False,0.34781234446711057,False,-0.6286692414550478,False,False,False,False,False
+49,"Jenkins, Jerome",False,0.28603759773724863,False,-0.9147070402583894,False,False,False,False,False
+50,"Kennedy, Jerry Noble",False,0.34781234446711057,False,-0.6286692414550478,False,False,False,False,False
+51,"Rubio, John Allen (2003)",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+52,"Rubio, John Allen (2007)",False,0.34781234446711057,False,-0.6286692414550478,False,False,False,False,False
+53,"Allen, John Michael",False,0.7937642842738367,False,1.34776678024938,True,True,True,True,True
+54,"DeBlase, John Joseph",False,0.43333136620729845,False,-0.2682719975194619,True,True,True,False,False
+55,"Elliott, John Robert",False,0.34781234446711057,False,-0.6286692414550478,False,False,False,False,False
+56,"Holt, John Lee",False,0.24432047017323658,False,-1.1291366180778428,False,False,False,False,False
+57,"Segundo, Juan Ramon Meza",False,0.3074400659273523,False,-0.8121146210175079,False,False,False,False,False
+58,"Velez, Manuel",False,0.43333136620729845,False,-0.2682719975194619,True,True,True,True,True
+59,"Slaughter, Michael Corey",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+60,"Bell, Michael",False,0.2459175516425424,True,-1.1205053861536531,False,False,False,False,False
+61,"Woods, Nathaniel",False,0.34781234446711057,False,-0.6286692414550478,False,False,False,False,False
+62,"Horning, Danny Ray",False,0.3352024502448024,False,-0.6847478794665776,False,False,False,False,False
+63,"Gomez, Ruben",False,0.4617573663218129,False,-0.15326987845815077,False,False,False,False,False
+64,"Silva, Mauricio Rodriguez",False,0.34781234446711057,False,-0.6286692414550478,False,False,False,False,False
+65,"Murtishaw, David",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+66,"Karis, James Leslie Jr",False,0.3856829578941759,True,-0.46549547073866687,True,True,True,False,False
+67,"Hunter, Lamont",False,0.32217846212176676,True,-0.7437784126162498,False,False,False,False,False
+68,"Atkins, Randy Lynn",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+69,"Atwood, Frank Jarvis",False,0.4916029384504212,True,-0.0335914045045658,False,False,True,False,False
+70,"Suarez, Arturo Juarez",False,0.4651665627143404,True,-0.13955982541079567,True,True,True,False,False
+71,"Avila, Johnny Jr",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+72,"Helzer, Justin",False,0.4617573663218129,True,-0.15326987845815077,True,True,True,True,True
+73,"Graham, Larry Christopher",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+74,"Clark, Royal",False,0.5159202050736414,True,0.06370235351507912,True,False,True,False,False
+75,"Edmiston, Stephen",False,0.46977492930780224,True,-0.1210478718920716,True,True,True,True,True
+76,"Northcutt, Robert Clinton ",False,0.6214003689211048,True,0.49549632631250157,True,True,True,True,True
+77,"Tamayo, Edgar Arias",False,0.31866517359703,True,-0.7599129150395292,False,False,False,False,False
+78,"Valdez, Fidencio",False,0.31866517359703,True,-0.7599129150395292,False,False,False,False,False
+79,"Hall, Gabriel Paul",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+80,"Leal, Humberto",False,0.3990519619636946,True,-0.4094168327271371,True,True,True,True,True
+81,"Luna, Joe",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+82,"Capers, Lee Samuel",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+83,"Cruz-Garcia, Obel",False,0.4617573663218129,True,-0.15326987845815077,False,False,False,False,False
+84,"Bolin, Paul Clarence",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+85,"Williams, Perry E",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+86,"Ibarra-Rubi, Ramiro",False,0.2364012530233541,True,-1.1725118649530941,False,False,False,False,False
+87,"Mays, Randall Wayne",False,0.31866517359703,True,-0.7599129150395292,False,False,False,False,False
+88,"Holiday, Raphael D.",False,0.43333136620729845,True,-0.2682719975194619,True,True,True,False,False
+89,"Lewis, Raymond Anthony",False,0.28603759773724863,True,-0.9147070402583894,False,False,False,False,False
+90,"Moore, Richard Bernard",False,0.28603759773724863,True,-0.9147070402583894,False,False,False,False,False
+91,"Vieira, Richard John",False,0.34781234446711057,True,-0.6286692414550478,False,False,False,False,False
+92,"Blackwell, Ricky Lee",False,0.5278657861690421,True,0.11157876202996611,True,False,True,False,False
+93,"Avila, Rigoberto",False,0.3438387670324428,True,-0.6462336936954837,False,False,False,False,False
+94,"Cowan, Robert Wesley",False,0.3599577757811461,True,-0.5755474144450111,False,False,False,False,False
+95,"Roberson, Robert Leslie",False,0.3438387670324428,True,-0.6462336936954837,False,False,False,False,False
+96,"Woodard, Robert L",False,0.3641743164200072,True,-0.5572917990826044,True,True,True,False,False
+97,"San Nicolas, Rodney Jesse",False,0.42583037901744614,True,-0.2988837639466652,True,True,True,True,True
+98,"Gillett, Roger Lee",False,0.29826720985122745,True,-0.8555629286664576,False,False,False,False,False
+99,"Lenart, Thomas Howard",False,0.48107389791806165,True,-0.07574059559901414,False,False,False,False,False
+100,"Adams, Timothy",False,0.3438387670324428,True,-0.6462336936954837,False,False,False,False,False
+101,"Jones, Timothy Ray",False,0.3438387670324428,True,-0.6462336936954837,False,False,False,False,False
+102,"Washington, Willie Terion",False,0.3641743164200072,True,-0.5572917990826044,False,False,False,False,False
+103,"Tobin, Christopher Alan",False,0.29826720985122745,True,-0.8555629286664576,False,False,False,False,False
+104,"Hawkins, Jeffrey Jay",False,0.3641743164200072,True,-0.5572917990826044,False,False,False,False,False
+105,"Beames, John Michael",False,0.3641743164200072,True,-0.5572917990826044,False,False,False,False,False
+106,"Smith, Paul Gordon",False,0.5183271808961252,True,0.07334158119811855,True,False,True,False,False
+107,"Colbert, Tecumseh Nehemaiah",False,0.3641743164200072,True,-0.5572917990826044,False,False,False,False,False
+108,"Hughey, John",False,0.29826720985122745,True,-0.8555629286664576,False,False,False,False,False
+109,"Robertson, Mark",False,0.3641743164200072,True,-0.5572917990826044,False,False,False,False,False
+110,"Gonzales, Michael",False,0.3641743164200072,True,-0.5572917990826044,False,False,False,False,False
+111,Angelina Rodriguez,True,0.4851048980811661,True,-0.059598042067756984,True,True,True,True,True
+112,Antoinette Frank,True,0.44997825975059513,True,-0.20075853523953202,True,True,True,True,True
+113,Belinda Magaña,True,0.5870584465767048,True,0.3518183173336183,True,True,True,True,True
+114,Blanche Taylor Moore,True,0.7036935115250514,False,0.8649485557480876,True,True,True,True,True
+115,Brenda E. Andrew,True,0.6850449043454897,True,0.7770543147165304,True,False,True,True,True
+116,Brittany Holberg,True,0.41405181421358433,True,-0.3472402444086759,True,True,True,True,True
+117,Brooke Rottiers,True,0.47873034999654945,True,-0.08512997499193047,True,True,True,True,True
+118,Cathy Sarinana,True,0.7228000829416766,True,0.9583937053652821,True,False,True,True,True
+119,Cherie Rhoades,True,0.5545690819163758,False,0.21914921433297918,True,True,True,True,True
+120,Christa Pike,True,0.6783074392857659,True,0.7460043263761811,False,False,True,False,True
+121,Christie Michelle Scott,True,0.6762456924471428,True,0.7365715422686703,False,False,True,False,True
+122,Cynthia Coffman,True,0.41102931737466386,False,-0.35971186381905257,True,True,True,True,True
+123,Darlie Routier,True,0.4278313068899553,False,-0.2907048908179425,True,True,True,True,True
+124,Donna Marie Roberts,True,0.4278313068899553,True,-0.2907048908179425,True,True,True,True,True
+125,Erica Sheppard,True,0.6115956705250712,False,0.454024511793778,True,True,True,True,True
+126,Heather Leavell Keaton,True,0.6471355032948357,True,0.6064715845807568,False,False,True,True,True
+127,Janeen Snyder,True,0.6131766866054318,True,0.46068509279942643,True,False,True,True,True
+128,Kerry Dalton,True,0.7239954401861719,False,0.9643677076352121,False,False,True,True,True
+129,Kimberly Cargill,True,0.4805702226018994,False,-0.07775826537757997,True,True,True,True,True
+130,Linda Carty,True,0.6111563705338624,True,0.4521755700199057,True,False,True,True,True
+131,Lisa Carpenter Graham,True,0.41405181421358433,False,-0.3472402444086759,True,True,True,True,True
+132,Lisa Jo Chamberlin,True,0.6691768063125877,False,0.7044642350647041,False,False,True,True,True
+133,Lorraine Alison Hunter,True,0.5621026951787595,True,0.24970014582805558,True,True,True,True,True
+134,Manling Williams,True,0.6069822648020499,True,0.4346448342624168,True,False,True,True,True
+135,Margaret Allen,True,0.7180875704582265,True,0.9349950368648877,False,False,True,True,True
+136,Maria Alfaro,True,0.5053044189322705,False,0.021218471781206758,True,True,True,True,True
+137,Maureen McDermott,True,0.5545690819163758,True,0.21914921433297918,True,True,True,True,True
+138,Melissa Lucio,True,0.46982757681871157,False,-0.12083651083326175,True,True,True,True,True
+139,Michelle Michaud,True,0.442268263251304,False,-0.2319614598622747,True,True,True,True,True
+140,Michelle Sue Tharp,True,0.46982757681871157,True,-0.12083651083326175,True,True,True,True,True
+141,Patricia Blackmon,True,0.6115956705250712,True,0.454024511793778,True,False,True,True,True
+142,Robin Lee Row,True,0.6701852120988755,True,0.7090228620351006,False,False,True,True,True
+143,Sammantha Allen,True,0.7010297589297222,True,0.8522062980000217,False,False,True,True,True
+144,Shawna Forde,True,0.48513862831876564,True,-0.05946300154598514,True,True,True,True,True
+145,Socorro Caro,True,0.41405181421358433,False,-0.3472402444086759,True,True,True,True,True
+146,Susan Eubanks,True,0.3974259816157253,True,-0.4162018029257583,True,True,True,True,True
+147,Tanya Nelson,True,0.5913166739155328,False,0.3694111088765951,True,False,True,True,True
+148,Taylor Parker,True,0.5324773876842595,False,0.13009271609039638,True,True,True,True,True
+149,Tierra Capri Gobble,True,0.6115956705250712,True,0.454024511793778,True,False,True,True,True
+150,Tiffany Cole,True,0.8072686673636232,False,1.4323593737965983,False,True,False,True,True
+151,Tiffany Moss,True,0.620597165025305,True,0.4920836541537534,False,False,True,True,True
+152,Tina Brown,True,0.7815541438078846,False,1.2747462432845795,False,False,False,True,True
+153,Valerie Martin,True,0.6399005141034922,True,0.5749323745722028,False,False,True,True,True
+154,Veronica Gonzales,True,0.5957282811508492,False,0.38769743570500953,True,False,True,True,True
+155,Virginia Caudill,True,0.4996801142835195,True,-0.0012795430404976553,True,True,True,True,True
+156,Wendi Andriano,True,0.6568913024388175,True,0.6494712600247426,False,False,True,True,True
