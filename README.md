@@ -25,6 +25,8 @@ Install dependencies with:
 
 ```bash
 pip install numpy pandas scipy nltk gensim matplotlib seaborn scikit-learn
+```
+
 
 ## Data
 - transcripts should be in .txt form
