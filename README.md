@@ -41,5 +41,5 @@ pip install numpy pandas scipy nltk gensim matplotlib seaborn scikit-learn
 
 ## How to Run
 - normalize and one hot encode metadata of men and women with propensity_metadata.ipynb
-- preprocess and bootstrap keyword metrics with bootstrap_result_final.ipynb (formerly reimplementation.ipynb)
+- preprocess and bootstrap keyword metrics with bootstrap_result.ipynb (formerly reimplementation.ipynb)
 - visualize results for matched groups with Result_visualizations.ipynb
