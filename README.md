@@ -1,10 +1,11 @@
 # Analysis of Gender stereotyping language in capital trials
 This project analyzes transcript text files given a set of keywords and computes bootstrap-based word and n-gram metrics.
 
-## What it does
+## Project Description
 - Reads transcript files and keyword lists from a local input folder
 - Preproccesses transcripts
 - Builds word and n-gram features
+- Identify keywords from MAX_QDA annotations
 - Runs bootstrap sampling
 - Outputs summary statistics to CSV
 - Produces visualizations of results
@@ -40,6 +41,7 @@ pip install numpy pandas scipy nltk gensim matplotlib seaborn scikit-learn
 
 
 ## How to Run
+- Use MaxQDA_Term_Extraction.ipynb and files in key_term_supporting folder to construct keyword list, or use provided key term list
 - normalize and one hot encode metadata of men and women with propensity_metadata.ipynb
 - preprocess and bootstrap keyword metrics with bootstrap_result.ipynb (formerly reimplementation.ipynb)
 - visualize results for matched groups with Result_visualizations.ipynb
