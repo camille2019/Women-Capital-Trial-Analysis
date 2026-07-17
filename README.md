@@ -42,6 +42,6 @@ pip install numpy pandas scipy nltk gensim matplotlib seaborn scikit-learn
 
 ## How to Run
 - Use MaxQDA_Term_Extraction.ipynb and files in key_term_supporting folder to construct keyword list, or use provided key term list
-- normalize and one hot encode metadata of men and women with propensity_metadata.ipynb
+- normalize and one hot encode metadata of men and women with propensity_metadata.ipynb and use exact_matching_groups to create groups for analysis. Or use files in rq_metadata_files
 - preprocess and bootstrap keyword metrics with bootstrap_result.ipynb (formerly reimplementation.ipynb)
 - visualize results for matched groups with Result_visualizations.ipynb
