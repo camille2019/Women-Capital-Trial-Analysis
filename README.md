@@ -33,7 +33,7 @@ pip install numpy pandas scipy nltk gensim matplotlib seaborn scikit-learn
 - create transcript folder seperated with subfolders for men and women
 - if using chunked data run chunk.ipynb to chunk transcript files and create upload to chunked transcript forlder with subfolders for men and women
 - create metadata file for transcripts
-- create matched groups of metadata with men and women transcript metadata files using ce_matching_clean.ipynb
+- create matched groups of metadata with men and women transcript metadata files using exact_matching_groups.ipynb
 - save outputs of matched group metadata files
 - create csv of keywords and themes of keywords
 - include metadata of men and women
