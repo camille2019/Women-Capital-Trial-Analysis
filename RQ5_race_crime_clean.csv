@@ -1,0 +1,51 @@
+,Unnamed: 0,Name,gender_woman,crime_condensed_weapon,crime_condensed_sa,crime_condensed_premed,crime_condensed_priors,crime_condensed_torture,crime_condensed_assult,crime_condensed_risk,crime_condensed_law_enforcement,crime_larceny,crime_kidnapping,crime_old_disabled_victim,crime_child_victim,Race_Asian,Race_Black,Race_Latinx,Race_Native American,Race_White,stratum_id,filename
+0,146,Socorro Caro,True,0,0,0,0,0,0,0,0,0,0,0,0,False,False,True,False,False,1,Socorro_Caro.txt
+1,51,"Rubio, John Allen (2003)",False,0,0,0,0,0,0,0,0,0,0,0,0,False,False,True,False,False,1,john_allen_rubio_2003.txt
+2,124,Darlie Routier,True,0,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,True,3,Darlie_Routier.txt
+3,125,Donna Marie Roberts,True,0,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,True,3,Donna_Roberts.txt
+4,141,Michelle Sue Tharp,True,0,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,True,3,Michelle_Tharpe.txt
+5,3,"Milam, Blaine Keith",False,0,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,True,3,blaine_milam.txt
+6,17,"Dearman, Derrick",False,0,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,True,3,derrick_dearman.txt
+7,101,"Jones, Timothy Ray",False,0,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,True,3,timothy_jones.txt
+8,139,Melissa Lucio,True,0,0,0,0,0,0,0,0,0,0,0,1,False,False,True,False,False,4,Melissa_Lucio.txt
+9,20,"Hernandez, Fabian",False,0,0,0,0,0,0,0,0,0,0,0,1,False,False,True,False,False,4,fabian_hernandez.txt
+10,149,Taylor Parker,True,0,0,0,0,0,0,0,0,0,1,0,1,False,False,False,False,True,9,Taylor_Parker.txt
+11,92,"Blackwell, Ricky Lee",False,0,0,0,0,0,0,0,0,0,1,0,1,False,False,False,False,True,9,ricky_blackwell.txt
+12,150,Tierra Capri Gobble,True,0,0,0,0,1,0,0,0,0,0,0,0,False,False,False,False,True,16,Tierra_Capri_Gobble.txt
+13,13,"Wood, David Leonard",False,0,0,0,0,1,0,0,0,0,0,0,0,False,False,False,False,True,16,david_leonard_wood.txt
+14,142,Patricia Blackmon,True,0,0,0,0,1,0,0,0,0,0,0,0,False,True,False,False,False,18,Patricia_Blackmon.txt
+15,126,Erica Sheppard,True,0,0,0,0,1,0,0,0,0,0,0,0,False,True,False,False,False,18,Erica_Sheppard.txt
+16,18,"Johnson, Dexter Darnell",False,0,0,0,0,1,0,0,0,0,0,0,0,False,True,False,False,False,18,dexter_johnson.txt
+17,9,"Matthews, Damon Roshun",False,0,0,0,0,1,0,0,0,0,0,0,0,False,True,False,False,False,18,damon_matthews.txt
+18,116,Brenda E. Andrew,True,0,0,0,0,1,0,1,0,0,0,0,0,False,False,False,False,True,23,Brenda_Andrew.txt
+19,2,"Lackey, Andrew",False,0,0,0,0,1,0,1,0,0,0,0,0,False,False,False,False,True,23,andrew_lackey.txt
+20,133,Lisa Jo Chamberlin,True,0,0,0,0,1,1,0,1,0,0,0,0,False,False,False,False,True,24,Lisa_Chamberlin.txt
+21,47,"Bush, Jason Eugene",False,0,0,0,0,1,1,0,1,0,0,0,0,False,False,False,False,True,24,jason_bush.txt
+22,145,Shawna Forde,True,0,0,0,1,0,0,0,0,0,0,0,1,False,False,False,False,True,27,Shawna_Forde.txt
+23,46,"Mills, Jamie",False,0,0,0,1,0,0,0,0,0,0,0,1,False,False,False,False,True,27,jamie_mills.txt
+24,119,Cathy Sarinana,True,0,0,0,1,1,0,0,0,0,0,0,1,False,False,False,False,True,28,Cathy_Sarinana.txt
+25,53,"Allen, John Michael",False,0,0,0,1,1,0,0,0,0,0,0,1,False,False,False,False,True,28,john_allen.txt
+26,144,Sammantha Allen,True,0,0,0,1,1,0,1,0,0,0,0,1,False,False,False,False,True,29,Sammantha_Allen.txt
+27,23,"Lamb, Michael Allan",False,0,0,0,1,1,0,1,0,0,0,0,1,False,False,False,False,True,29,michael_allan_lamb.txt
+28,118,Brooke Rottiers,True,0,0,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,30,Brooke_Rottiers.txt
+29,130,Kimberly Cargill,True,0,0,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,30,Kimberley_Cargill.txt
+30,138,Maureen McDermott,True,0,0,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,30,Maureen_McDermott.txt
+31,27,"Garton, Todd Jesse",False,0,0,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,30,todd_jesse_garton.txt
+32,29,"Poore, Christopher Eric",False,0,0,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,30,christopher_eric_poore.txt
+33,99,"Lenart, Thomas Howard",False,0,0,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,30,thomas_lenart.txt
+34,153,Tina Brown,True,0,0,1,0,1,0,0,1,0,1,0,0,False,True,False,False,False,41,Tina_Brown.txt
+35,33,"Thomas, Regis Deon",False,0,0,1,0,1,0,0,1,0,1,0,0,False,True,False,False,False,41,regis_deon_thomas.txt
+36,128,Janeen Snyder,True,0,1,0,0,1,0,0,0,0,1,0,0,False,False,False,False,True,53,Janeen_Snyder.txt
+37,42,"Calvert, James",False,0,1,0,0,1,0,0,0,0,1,0,0,False,False,False,False,True,53,james_calvert.txt
+38,136,Margaret Allen,True,0,1,0,0,1,0,0,0,0,1,0,0,False,True,False,False,False,54,Margaret_Allen.txt
+39,39,"Mosley, Barry Wendell",False,0,1,0,0,1,0,0,0,0,1,0,0,False,True,False,False,False,54,barry_wendell_mosley.txt
+40,134,Lorraine Alison Hunter,True,0,1,1,0,0,0,0,0,0,0,0,0,False,True,False,False,False,59,Lorraine_Hunter.txt
+41,4,"Kennedy, Carlos",False,0,1,1,0,0,0,0,0,0,0,0,0,False,True,False,False,False,59,carlos_kennedy.txt
+42,123,Cynthia Coffman,True,1,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,True,60,Cynthia_Coffman.txt
+43,44,"Majors, James David",False,1,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,True,60,james_majors.txt
+44,112,Angelina Rodriguez,True,1,0,0,0,0,1,0,0,0,0,0,0,False,False,True,False,False,63,Angelina_Rodriguez.txt
+45,0,"Gaxiola, Albert Robert",False,1,0,0,0,0,1,0,0,0,0,0,0,False,False,True,False,False,63,albert_gaxiola.txt
+46,143,Robin Lee Row,True,1,0,0,0,1,1,1,0,0,0,0,0,False,False,False,False,True,64,Robin_Row.txt
+47,7,"Sepulvado, Christopher",False,1,0,0,0,1,1,1,0,0,0,0,0,False,False,False,False,True,64,christopher_sepulvado.txt
+48,129,Kerry Dalton,True,1,0,1,0,1,0,0,0,0,0,0,0,False,False,False,False,True,65,Kerry_Dalton.txt
+49,34,"Shove, Theodore Churchill",False,1,0,1,0,1,0,0,0,0,0,0,0,False,False,False,False,True,65,theodore_churchill_shove.txt
